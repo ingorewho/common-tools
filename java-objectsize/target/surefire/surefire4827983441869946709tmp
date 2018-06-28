@@ -1,5 +1,5 @@
 #surefire
-#Tue Jun 26 15:08:59 CST 2018
+#Wed Jun 27 17:43:53 CST 2018
 testClassesDirectory=E\:\\comm_tools\\java-objectsize\\target\\test-classes
 useManifestOnlyJar=true
 classPathUrl.1=E\:\\comm_tools\\java-objectsize\\target\\classes
